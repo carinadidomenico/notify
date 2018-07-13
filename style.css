@@ -1,0 +1,43 @@
+body{
+    overflow-x: hidden;
+}
+*{
+    margin: 0;
+    padding: 0;
+}
+header{
+    height: 450px;
+    background-image: url(imagem/banner.png);
+    background-repeat: no-repeat;
+    border-top: 10px solid rgb(17,207,112);
+}
+img{
+   border-left: 0;
+   border-right: 0;
+   border-bottom:0;
+   margin: 0;
+   padding: 0;
+}
+#filha1{
+    align-items: center;
+    font-family: Pacifico;
+    color: aliceblue;
+    font-size: 25px;
+    font-style: initial;
+    margin-top: 120px;
+    margin-left: 20%;
+}
+
+#filha2{
+    margin-top: 45px;
+    margin-left: 21%;
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: antiquewhite;
+}
+
+#filha3{
+    margin-top: 50px;
+    margin-left: 23%;
+    padding-right: 10%;    
+}
